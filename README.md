@@ -10,4 +10,4 @@ Desenvolvimento de códigos utilizando:
 - Estruturas condicionais If, else
 - Condições aninhadas
 - Cores no terminal
-- Condições aninhadas
+
