@@ -10,4 +10,5 @@ Desenvolvimento de códigos utilizando:
 - Estruturas condicionais If, else
 - Condições aninhadas
 - Cores no terminal
-
+- Estrutura de repetição FOR
+- Estrutura de repetição While
